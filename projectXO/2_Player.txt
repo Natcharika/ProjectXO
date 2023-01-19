@@ -1,0 +1,5 @@
+
+   05/01/21 15:22:33       Yume ( Draw)      NaNae ( Draw)
+   05/07/21 00:03:48         YU (  Win)         SU ( Lost)
+   05/07/21 00:06:05         YU ( Draw)         SU ( Draw)
+   05/07/21 23:49:16         Yu (  Win)         Su ( Lost)
